@@ -1,0 +1,38 @@
+.section-title {
+	margin-bottom: 80px;
+	margin-top: 80px;
+}
+
+.espacogaleria {
+    margin-bottom: 20px;
+}
+
+.footer-espaco {
+    margin-top: 80px;
+}
+
+.bg-natureza {
+    background-color: #13293D;
+}
+
+.fundosobre {
+    background-color: #247BA0;
+    color: white;
+}
+
+.fundo-galeria {
+    background-color: #006494;
+    color: white;
+}
+
+.fundo-footer {
+    background-color: #E8F1F2;
+}
+
+.espacotitle {
+	padding-bottom: 2vh;
+}
+
+.espacobaixo {
+    padding-bottom: 2vh;
+}
